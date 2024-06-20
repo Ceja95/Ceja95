@@ -1,6 +1,6 @@
 # Jose Lara-Ceja
 
-## I am a junior developer that is currently in the TripleTen program and have been coding for about 4 months.
+## I am a junior developer that is currently in the TripleTen program and have been coding for about 4 months & have created 3 independent webpages.
 ## I have the knowledge and know how to create websites from scratch i've learned *HTML* , *CSS* , & *Javascrpit* all the needed basics.
 ## I hope to work on projects with a team and enter the starting field as an apprentice and learn while i create and maintain company or client websites.
 ## If you have the time i would really appreciate if you can go into more detail about javascript with me so i have it 100% hands down.
