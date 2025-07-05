@@ -1,5 +1,5 @@
 # Jose Lara-Ceja
-# Aspiring Front-End Developer  TripleTen Bootcamp Student
+# Aspiring Full-Stack Developer  TripleTen Bootcamp Student
 ## I’m a passionate junior developer currently enrolled in the TripleTen Software Engineering program, with one year of hands-on coding experience. I specialize in building websites from scratch using technologies like *HTML*, *CSS*, *JavaScript*, and *React*. I'm comfortable with development tools such as *VS Code*, *Git*, *GitHub*, and *Git Bash*, and I understand  version control and modern web development workflows.
 ## I’m eager to contribute to real-world projects in a collaborative team environment, where I can continue learning while helping develop and maintain websites that serve real user needs. My curiosity drives me to explore new coding patterns and best practices—even in my free time, I enjoy experimenting with code and learning new skills.
 ## If you’re curious about my personal projects or want to hear more about my bootcamp experience, feel free to reach out. I’m also happy to share a bit about my other creative interests beyond coding.
